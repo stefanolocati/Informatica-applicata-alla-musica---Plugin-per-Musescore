@@ -7,9 +7,12 @@ In particolare, questo plugin prevede di colorare ogni nota con un colore divers
 La mia scelta è ricaduta sugli accostamenti fatti da Castel, Zieverink, Belmont, Seemann, Von Helmholtz e Scriabin.
 
 ### Linguaggi utilizzati
-QML,
-XML,
-DTD.
+QML
+
+XML
+
+DTD
+
 
 ### Trascrizione con Musescore
 Il progetto prevede anche di trascrivere una partitura su Musescore sulla quale poi deve essere applicato/testato il funzionamento del plugin. Nei file del codice lascio anche la partitura sia in formato PDF che in formato Musescore.
